@@ -1,0 +1,45 @@
+html,body{
+    height:100%;
+    width:100%;
+    margin:0;
+}
+
+div {
+    height: 150px;
+    width: 100%;
+}
+.row1 {
+    background-color: #D8D8D8;
+    height: 95px;
+    max-height: 95px;
+    width: 100%;
+    padding: 5px 15px;
+}
+
+.bluebox { 
+    background-color: #4A90E2;
+    float: left;
+    height: 95px;
+    width: 95px;
+}
+
+.row2 { 
+    background-color: #50E3C2;
+    margin: 50px 125px;
+}
+
+.row3 {
+    background-color: #4A90E2;
+}
+
+.row4 {
+    background-color: #50E3C2;
+}
+
+.row5 {
+    background-color: #B8E986;
+}
+
+.row6 {
+    background-color: #F8E71C;
+}
